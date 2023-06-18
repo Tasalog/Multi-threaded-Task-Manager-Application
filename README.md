@@ -1,6 +1,5 @@
 # Multi-threaded Task Manager Application
 
-![Task Manager](https://github.com/Tasalog/Multi-threaded-Task-Manager-Application/blob/main/images/task_manager.png)
 
 The Multi-threaded Task Manager Application is a Java-based project that aims to provide a multi-threaded task management system. It allows users to create and manage tasks in a concurrent environment, leveraging the power of multiple threads to execute tasks simultaneously.
 
